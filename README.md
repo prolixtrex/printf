@@ -1,4 +1,4 @@
 # Creating Printf Function
 ### collaborators
-* Sammy IYEBHORA --Sammykingx
-* Timmy ADEYEMI --TimmyPR
+* Bright Anua -- prolixtrex
+* Shahir Abdulsalam -- shaheerui
